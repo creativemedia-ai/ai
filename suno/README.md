@@ -4,8 +4,9 @@
 
 [SUNO Knowledge Base](https://help.suno.com/en)
 
-[SUNO API (Unofficial)](https://sunoapi.org/)
-[Suno API Documentation](https://docs.sunoapi.org/)
+[SUNO API (Unofficial)](https://sunoapi.org/) | 
+[Suno API Documentation](https://docs.sunoapi.org/) | 
+[Suno API Quick Start](https://docs.sunoapi.org/suno-api/quickstart)
 
 ### Prompts
 
