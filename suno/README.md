@@ -5,6 +5,7 @@
 [SUNO Knowledge Base](https://help.suno.com/en)
 
 [SUNO API (Unofficial)](https://sunoapi.org/)
+[Suno API Documentation](https://docs.sunoapi.org/)
 
 ### Prompts
 
