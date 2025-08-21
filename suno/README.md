@@ -1,5 +1,7 @@
 # SUNO AI
 
+![SUNO AI](Suno-Logo.png)
+
 [SUNO Knowledge Base](https://help.suno.com/en)
 
 ### Prompts
